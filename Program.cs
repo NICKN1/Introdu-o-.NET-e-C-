@@ -40,7 +40,8 @@ namespace Revisao
             Console.WriteLine();
             Console.WriteLine("X - Sair");
 
-            Console.ReadLine();
+            string opcaoUsuario = Console.ReadLine();
+            return opcaoUsuario;
         }
     }
 }
