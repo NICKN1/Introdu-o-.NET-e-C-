@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\irani\\Revisao\\Revisao.csproj",
+      "projectUniqueName": "C:\\Users\\irani\\OneDrive\\Documentos\\Revisao\\Revisao.csproj",
       "projectName": "Revisao",
-      "projectPath": "C:\\Users\\irani\\Revisao\\Revisao.csproj",
+      "projectPath": "C:\\Users\\irani\\OneDrive\\Documentos\\Revisao\\Revisao.csproj",
       "packagesPath": "C:\\Users\\irani\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\irani\\Revisao\\obj\\",
+      "outputPath": "C:\\Users\\irani\\OneDrive\\Documentos\\Revisao\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\irani\\AppData\\Roaming\\NuGet\\NuGet.Config"
